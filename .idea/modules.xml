@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidApp.iml" filepath="$PROJECT_DIR$/AndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_trending_repos_kotlin/android_trending_repos_kotlin.iml" filepath="$PROJECT_DIR$/android_trending_repos_kotlin/android_trending_repos_kotlin.iml" group="kotlin_trending_repositories_on_android/android_trending_repos_kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/android_trending_repos_kotlin/app.iml" filepath="$PROJECT_DIR$/android_trending_repos_kotlin/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_trending_repositories_on_android.iml" filepath="$PROJECT_DIR$/kotlin_trending_repositories_on_android.iml" group="kotlin_trending_repositories_on_android" />
+    </modules>
+  </component>
+</project>
